@@ -1,0 +1,7 @@
+﻿# ARMORED CORE
+
+***Armored Core*** (Japanese: アーマード・コア, Hepburn: Āmādo Koa) is a third-person shooter mecha video game series developed by ***FromSoftware***. The series centers on a silent protagonist who takes on work as a mercenary pilot in the far future, operating large robot combat units known as Armored Cores at the behest of corporate and private clients. As the player completes missions for these clients, they gain credits to improve their Armored Core and unlock further opportunities to make money. Some games include an "Arena" mode in which the player fights other Armored Core pilots in head-to-head battles, which can reward the player with further income or prestige. 
+
+Currently, several independent continuities exist, spread across 13 main games, seven spin-offs, and three remastered re-releases, with different releases divided by a different set of "generations" of sequels that resets with every main numbered entry. The first game in the series, Armored Core, was released in 1997, while the most recent, ***Armored Core VI: Fires of Rubicon***, was released in 2023.[1][2] The series has been released on various ***PlayStation*** and ***Xbox*** consoles, as well as ***Windows*** and ***mobile phones***. 
+
+In 2007, the series was adapted to **manga** by **Fujimi Shobo** as Armored Core: Tower City Blade, and in 2024, to television by **Tim Miller** as an episode of Secret Level titled Armored Core: Asset Management, starring the voices of **Keanu Reeves, Erin Yvette, Temuera Morrison, Patrick Schwarzenegger, and Steve Blum**.
